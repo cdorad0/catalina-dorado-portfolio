@@ -2,13 +2,12 @@
 title: "About"
 ---
 
-## About
-
 Catalina Dorado is an undergrad at California State University, Monterey Bay, majoring in Marine Science with a minor in Data Science.
 
 ## Education
 
 San Diego Mesa College | San Diego, CA  2019 - 2022
+
 California State University | Monterey Bay, CA 2022 - Present
 
 ## Experience

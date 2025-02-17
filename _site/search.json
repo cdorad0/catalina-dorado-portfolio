@@ -2,15 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "catalina-dorado-portfolio",
+    "title": "Catalina Dorado",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Judith Canner is a Professor of Statistics and Chair of the Department of Mathematics and Statistics at California State University, Monterey Bay."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Catalina Dorado",
+    "section": "Education",
+    "text": "Education\nShippensburg University | Shippensburg, PA\nB.S. in Applied Mathematics | 2001 - 2004"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Catalina Dorado",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Catalina Dorado is an undergrad at California State University, Monterey Bay, majoring in Marine Science with a minor in Data Science."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "",
+    "text": "Catalina Dorado is an undergrad at California State University, Monterey Bay, majoring in Marine Science with a minor in Data Science."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nSan Diego Mesa College | San Diego, CA 2019 - 2022 California State University | Monterey Bay, CA 2022 - Present"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nSan Diego Community College District | Seasonal Lifeguard | August 2021 - July 2024"
   }
 ]
