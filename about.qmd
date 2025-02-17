@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+My name is Catalina Dorado and I am from San Diego, California. I am an undergrad student at CSU Monterey Bay. I am majoring in Marine Science and a minor in Data Science.
 
 ```{r}
 1 + 1
