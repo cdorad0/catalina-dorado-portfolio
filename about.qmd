@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-My name is Catalina Dorado and I am from San Diego, California. I am an undergrad student at CSU Monterey Bay. I am majoring in Marine Science and a minor in Data Science.
+## About
 
-```{r}
-1 + 1
-```
+Catalina Dorado is an undergrad at California State University, Monterey Bay, majoring in Marine Science with a minor in Data Science.
+
+## Education
+
+San Diego Mesa College | San Diego, CA  2019 - 2022
+California State University | Monterey Bay, CA 2022 - Present
+
+## Experience
+
+San Diego Community College District | Seasonal Lifeguard | August 2021 - July 2024
+
